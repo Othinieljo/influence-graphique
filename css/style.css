@@ -3934,7 +3934,7 @@ hr{
 }
 
 .feature-block-three .inner-box:hover{
-	background-color: #f89f27;
+	background-color: #ff6600;
 }
 
 .feature-block-three .inner-box .content{
@@ -10285,7 +10285,7 @@ hr{
 }
 .conteneur h1::after{
    content: '';
-   background:#f89f27;
+   background:#ff6600;
    display: block;
    height: 3px;
    width: 170px;
