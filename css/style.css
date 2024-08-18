@@ -2183,7 +2183,7 @@ hr{
 	padding: 0 30px;
 	background-color:#ffffff;
 	z-index: 999;
-	max-height: 85px;
+	max-height: 93px;
 }
 
 .main-header .nav-outer{
@@ -2200,7 +2200,7 @@ hr{
 }
 
 .main-header .logo img{
-	max-height: 52px;
+	max-height: 85px;
 }
 
 .main-header .menu-box{
