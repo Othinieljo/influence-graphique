@@ -1,6 +1,6 @@
 <?php
 
-$db_name = 'mysql:host=localhost;dbname=tamani';
+$db_name = 'mysql:host=localhost;dbname=influence_graphique';
 $user_name = 'root';
 $user_password = '';
 
