@@ -2131,6 +2131,7 @@ hr{
 
 .main-header .top-left{
   position: relative;
+  
 }
 
 .main-header .contact-list{
@@ -2175,6 +2176,7 @@ hr{
 
 .main-header .top-right{
   position: relative;
+  margin: auto 0;
 }
 
 .main-header .main-box{
